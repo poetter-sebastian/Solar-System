@@ -3,12 +3,13 @@
 Some small circuit for a DIY solar system.
 
 ## Sketch
-
 ![alt text](https://github.com/poetter-sebastian/solarcell/blob/main/img/circuit.png "Sketch of the system")
 * VCC B: voltage of the battery
 * GND B: ground of the battery
 * VCC S: voltage of the solar panels
 * GND S: ground of the solar panels
+
+See [circuit-diagram.org](https://www.circuit-diagram.org/editor/) with .cddx save file
 
 ## Used hardware
 Here is the list of the used hardware for the system.
